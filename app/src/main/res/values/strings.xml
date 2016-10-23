@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GatherApp</string>
+    <string name="facebook_app_id">1607285089565789</string>
+    `
+    <string-array name="desserts">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>Honeycomb</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Jelly Bean</item>
+        <item>Key Lime Pie</item>
+    </string-array>
+
+    <string name="title_activity_login">Login</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

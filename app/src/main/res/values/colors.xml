@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1565C0</color>
+    <color name="colorPrimaryDark">#0D47A1</color>
+    <color name="colorAccent">#E71600</color>
+
+    <!-- <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="bg_gradient_start">#EB5038</color>
+    <color name="bg_gradient_end">#CA3822</color>
+    <color name="bg_button_login">#A92815</color> -->
+
+    <color name="white">#ffffff</color>
+    <color name="black_overlay">#66000000</color>
+</resources>
